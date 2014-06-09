@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7C980E03-980E-43C2-91FF-72E219865826</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IosDeveloperTool</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CC3629CE-C961-4057-894B-78251647EB34</key>
+		<string>ssh://git.oschina.net/zmlmagic/IosDeveloperTool.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IosDeveloperTool/IosDeveloperTool.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CC3629CE-C961-4057-894B-78251647EB34</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://git.oschina.net/zmlmagic/IosDeveloperTool.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CC3629CE-C961-4057-894B-78251647EB34</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CC3629CE-C961-4057-894B-78251647EB34</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IosDeveloperTool</string>
+		</dict>
+	</array>
+</dict>
+</plist>
